@@ -25,3 +25,7 @@ print([c.pisos,c.habitaciones,c.metros])
 
 
 print("a")
+print("a")
+print("a")
+print("a")
+print("a")
